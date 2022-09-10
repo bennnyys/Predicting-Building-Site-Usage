@@ -1,5 +1,7 @@
 # Predicting Building Site Energy Usage
 
+Repo link: https://github.com/bennnyys/Predicting-Building-Site-Usage
+
 Semester project for UC Berkeley MIDS Intro to Machine Learning - Summer 2022  
 
 Project team: CJ Donahoe, Ben Meier, Sam Rosenberg; code contained within project is my own
