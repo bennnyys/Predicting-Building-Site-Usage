@@ -10,7 +10,7 @@ Technical skills: Keras TensorFlow, Linear Regression, Random Forest, Data prepr
 
 ## Introduction
 
-Can we predict site energy usage from publically available building performance data? This project aims to predice building site energy usage as measured by energy use intentisty (kBtu/square feet). Notebooks written via Google Colab environment.
+Can we predict site energy usage from publically available building performance data? This project aims to predict building site energy usage as measured by energy use intentisty (kBtu/square feet). Notebooks written via Google Colab environment.
 
 ## Data Source
 
